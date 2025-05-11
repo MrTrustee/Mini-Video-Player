@@ -1,2 +1,2 @@
 # Android-Projects
-List of Android Projects that I made during my leisure time
+A mini-video app player
