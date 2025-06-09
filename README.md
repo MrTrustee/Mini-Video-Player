@@ -1,2 +1,1 @@
-# Android-Projects
-A mini-video app player
+A mini-video app player is an Android app I built for fun
